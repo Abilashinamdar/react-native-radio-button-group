@@ -63,11 +63,11 @@ var RadioGroupProject = React.createClass({
 ### Props
 Key | Type | Default | Value
 --- | --- | --- | ---
-options | Array | [ ] | [Option](https://github.com/Abilashinamdar/react-native-radio-button-group#react-native-radio-button-group#Option)
+options | Array | [ ] | [Option](https://github.com/Abilashinamdar/react-native-radio-button-group#react-native-radio-button-group#option)
 horizontal | Boolean | false | true / false
 activeButtonId | String / Number | _ | option id from the given options array
 onChange | function | _ | callback function
-circleStyle| Object | [CircleStyle](https://github.com/Abilashinamdar/react-native-radio-button-group#react-native-radio-button-group#CircleStyle)| [CircleStyle](https://github.com/Abilashinamdar/react-native-radio-button-group#react-native-radio-button-group#CircleStyle) with even more properties as required.
+circleStyle| Object | [CircleStyle](https://github.com/Abilashinamdar/react-native-radio-button-group#react-native-radio-button-group#circlestyle)| [CircleStyle](https://github.com/Abilashinamdar/react-native-radio-button-group#react-native-radio-button-group#circlestyle) with even more properties as required.
 
 #### Option
 ```
