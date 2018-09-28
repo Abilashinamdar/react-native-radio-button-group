@@ -107,12 +107,11 @@ Note : 'fillColor' used to change the background color of the circle on select.
 ![Demo](./doc/label_view.png)
 ```js
 <RadioGroup
-      horizontal
       options={[
         {
               id: 0,
               labelView: (
-                <Text>
+                <Text style={{flex: 1}}>
                   Button label as <Text style={{ color: 'red' }}>View</Text>
                 </Text>
               ),

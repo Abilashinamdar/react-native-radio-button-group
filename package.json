@@ -1,6 +1,6 @@
 {
   "name": "react-native-radio-button-group",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple and handy animated Radio group button for React Native",
   "main": "index.js",
   "scripts": {
@@ -22,7 +22,6 @@
   },
   "homepage": "https://github.com/Abilashinamdar/react-native-radio-button-group#readme",
   "dependencies": {
-    "lodash": "^4.17.11",
     "prop-types": "^15.6.2"
   }
 }
